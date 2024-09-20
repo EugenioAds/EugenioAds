@@ -1,7 +1,6 @@
-# 💫 Sobre Mim:
+# 👋 Olá, sou Eugênio Filho!
 # Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de Tecnologias.
 
-- 👋 Olá, sou Eugênio Filho!
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou me Especializando em BackEnd.
 - 📫 Como entrar em contato comigo eugeniodesign2@gmail.com
