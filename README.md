@@ -8,7 +8,6 @@
 - 💻 No meu tempo livre gosto de assistir PodCast e Caminhar 🏃‍♂️.
 
 
-Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de Tecnologias.
 
 
 ## 🌐 Socials:
