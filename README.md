@@ -2,7 +2,7 @@
 # Estudante de Análise e Desenvolvimento de Sistemas e entusiasta de Tecnologias.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou me Especializando em BackEnd.
+- 🌱 Atualmente estou me Especializando em BackEnd(Java).
 - 📫 Como entrar em contato comigo eugeniodesign2@gmail.com
 - ⚡ Curiosidade: Amo assistir jogos de Tênis.
 - 💻 No meu tempo livre gosto de assistir PodCast e Caminhar 🏃‍♂️.
