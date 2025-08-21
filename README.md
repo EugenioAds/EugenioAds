@@ -1,6 +1,6 @@
 # 👋 Olá, sou Eugênio Filho!
 - 💻 Apaixonado por tecnologia e Inteligência Artificial.
-- 🌱 Atualmente estou me Especializando em BackEnd(Java).
+- 📚 Atualmente estou me Especializando em Inteligência Artificial.
 - 📫 Como entrar em contato comigo eugeniodesign2@gmail.com
 - ⚡ Curiosidade: Amo assistir jogos de Tênis.
 - 💻 No meu tempo livre gosto de assistir PodCast e Caminhar 🏃‍♂️.
