@@ -3,8 +3,7 @@
 - 📚 Ciência da Computação....
 - 📚 Atualmente estou estudando Java para atuar como Backend.
 - 📫 Como entrar em contato comigo eugeniodesign2@gmail.com
-- ⚡ Curiosidade: Amo assistir jogos de Tênis.
-- 💻 No meu tempo livre gosto de assistir PodCast e Caminhar 🏃‍♂️.
+  
 
 
 
