@@ -11,6 +11,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eug%C3%AAnio-filho/)
 
+## <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,vscode,idea,maven" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EugenioAds&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EugenioAds&theme=dark&hide_border=true)<br/>
