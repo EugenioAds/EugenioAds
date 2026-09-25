@@ -56,7 +56,7 @@ Aplicação Java que consome API externa para buscar informações de séries
 
 ### 🎨 [Portfólio Pessoal](https://github.com/EugenioAds/portfolio)
 Site portfólio com HTML5 e CSS3 responsivo
-- [Visualizar ao vivo](https://eugenioadss.github.io/portfolio)
+- [Visualizar ao vivo](https://eugenioads.github.io/portfolio)
 - Design moderno e responsivo
 - GitHub Pages
 
