@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Eugênio Filho
 
-**Desenvolvedor Backend | Java | Spring Boot | Apaixonado por Código Limpo e Boas Práticas**
+**Desenvolvedor Backend 
 
 ---
 
